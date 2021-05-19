@@ -60,7 +60,7 @@ html {
   }
   
   .cone_centro {
-      background-image: url("11.jpg");
+      background-image: url("../resources/11.jpg");
       background-repeat: no-repeat;
       background-position: center;
       background-size: 720px 2000px;
